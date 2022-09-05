@@ -1,3 +1,4 @@
+# NOTE: no need to download fyc just go to https://httpanimations.github.io/FYCLIVE/ or go to the fyc repository
 # FYC
 # Fuck you cox :) 
 # To download/Update do FOR LINUX/Mac
